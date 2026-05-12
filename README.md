@@ -1,4 +1,5 @@
-# 
+# Hi There
+I’m Deigh Tolentino, and my journey in tech began when I pursued my BSIT degree. Since then, I’ve developed a strong passion for programming and database management. I enjoy tackling complex challenges and transforming them into efficient, user-friendly solutions. For me, the most rewarding part of technology is creating systems that are both practical and reliable. 
 
 ## 📘 Education
 - [NEW ERA UNIVERSITY] – [2BSIT-3]
